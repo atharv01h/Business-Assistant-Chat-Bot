@@ -19,7 +19,6 @@ A sophisticated business assistant that helps solve complex business challenges 
 - **Frontend Framework:** React with TypeScript
 - **Styling:** Tailwind CSS
 - **Animations:** Framer Motion
-- **AI Integration:** Google's Gemini API
 - **Icons:** Lucide React
 - **Development:** Vite
 - **Package Manager:** npm
